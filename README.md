@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Blake Ocampo
-- 👀 I’m interested in Chemoinformatics, Data Science, and applications of machine learning to chemistry
-- 🌱 I’m currently learning how to code more efficiently, work with RDKit and molecular graphs, and algorithm development
-- 💞️ I’m looking to collaborate on encoding chemical properties, descriptor development, and graph traversal
-- 📫 How to reach me: blakeo2@illinois.edu
+My name is Blake Ocampo and I'm currently a PhD candidate at the University Illinois at Urbana Champaign working under Professor Scott Denmark. I'm interested in chemoinformatics, data science, and applications of machine learning to chemistry, especially those related to process chemistry. I enjoy making tools for chemists that help enable their workflows in a more wholistic way. I have expeirence with RDKit, Openbabel, Openeye, and Keras/Pytorch, with my main coding language is Python. I'm looking to collaborate on encoding chemical properties and descriptor development.
+
+The best way to reach me is blakeo2@illinois.edu
 
 <!---
 blakeo2/blakeo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
