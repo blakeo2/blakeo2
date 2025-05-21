@@ -1,7 +1,7 @@
 My name is Blake Ocampo and I'm currently a PhD candidate at the University Illinois at Urbana Champaign working under Professor Scott Denmark. 
 
 Some of my interests include:
-- Chemoinformatics
+- Cheminformatics
 - Data Science
 - Algorithm and workflow development for applications in discovery and process chemistry
 
